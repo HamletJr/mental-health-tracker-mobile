@@ -1,5 +1,9 @@
 # mental_health_tracker
 
+[![Build status](https://build.appcenter.ms/v0.1/apps/aecd033e-5334-4f75-a890-2aeed534a904/branches/master/badge)](https://appcenter.ms)
+
+[Download on App Center](https://install.appcenter.ms/orgs/astral-express/apps/mental-health-tracker/distribution_groups/public/releases/1)
+
 A new Flutter project.
 
 ## Getting Started
